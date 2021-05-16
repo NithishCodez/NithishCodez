@@ -40,6 +40,14 @@
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/></a>
 
+### 📘 My Latest Blog Posts
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+### 🎥 My Latest Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 
 [website]: https://nithishpravin.xyz/
 [bio]: https://dsc.bio/6593
