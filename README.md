@@ -41,10 +41,12 @@
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/></a>
 
 ### 📘 My Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎥 My Latest Youtube Videos
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
