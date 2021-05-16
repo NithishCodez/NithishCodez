@@ -1,5 +1,5 @@
 <h2 align="center">Sup Human 👋</h2>
-<img src="https://raw.githubusercontent.com/NithishCodez/NithishCodez/main/header.png.png"/>
+<img src="https://raw.githubusercontent.com/NithishCodez/NithishCodez/main/header.png"/>
 <h4 align="center">Contact Me</h4>
 <p align="center">
 <a href="https://discord.gg/bSCSNuh65d">
