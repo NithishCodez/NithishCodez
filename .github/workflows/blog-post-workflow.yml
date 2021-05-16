@@ -1,14 +1,16 @@
-name: My latest blog posts
+name: Latest blog post workflow
 on:
-  schedule: 
-    - cron: '0 * * * *' 
-  workflow_dispatch: 
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with my latest dev.to blog post
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://lorem-rss.herokuapp.com/feed"
+          feed_list: "https://dev.to/feed/codestackr"
