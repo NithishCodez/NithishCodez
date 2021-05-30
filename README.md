@@ -53,11 +53,11 @@
 ### 🎥 My Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make an Economy Discord bot In JavaScript | 2021](https://www.youtube.com/watch?v=0rXfkrg7PgI)
 - [Discord Bot Dashboard Part 2](https://www.youtube.com/watch?v=mRL61TJh_aQ)
 - [Advanced Discord Music Bot | 5k Views Special | New Features](https://www.youtube.com/watch?v=8wopOm4598Q)
 - [Instagram Artificial Intelligence | Chatbot | JavaScript](https://www.youtube.com/watch?v=djPdK-y3W38)
 - [How to host discord bot 24/7 in 1 minute | Glitch | Repl](https://www.youtube.com/watch?v=Y3_Y91FYOzU)
-- [Discord Bot Dashboard Part 1](https://www.youtube.com/watch?v=tb7IgQcFazQ)
 <!-- YOUTUBE:END -->
 
 
