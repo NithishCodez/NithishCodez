@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/NithishCodez/NithishCodez/main/header.png"/>
 <h4 align="center">Contact Me</h4>
 <p align="center">
-<a href="https://dsc.bio/6593">
+<a href="https://discords.com/bio/p/auroradev">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="mailto:nithishdev509@gmail.com">
