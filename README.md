@@ -62,4 +62,4 @@
 
 
 [website]: https://nithishpravin.xyz/
-[bio]: https://dsc.bio/6593
+[bio]: https://dsc.bio/auroradev
