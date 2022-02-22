@@ -40,16 +40,6 @@
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/></a>
 
-### 📘 My Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-- [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
-<!-- BLOG-POST-LIST:END -->
-
 ### 🎥 My Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
